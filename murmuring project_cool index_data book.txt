@@ -19,4 +19,6 @@
 7. 전시장 구성
 
 == 결론 ==
-test edit
+test edit 
+
+end test
